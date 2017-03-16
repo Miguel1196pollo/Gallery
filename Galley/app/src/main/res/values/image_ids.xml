@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="image_ids">
+
+        <item>@drawable/descarga</item>
+        <item>@drawable/jimena</item>
+        <item>@drawable/luz</item>
+        <item>@drawable/luzelena</item>
+        <item>@drawable/segunda</item>
+
+    </integer-array>
+
+</resources>
